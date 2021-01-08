@@ -1,0 +1,92 @@
+#h3{
+    float:left;
+    max-width: 80px;
+    max-height: 86px;
+    margin: 1px 0px 18.72px;
+    text-align: center;
+    border-right: 3px solid #f1f1f1;
+    border-bottom: 3px solid #f1f1f1;
+    font-family: Cambria;
+    font-size: 18.72px;
+    padding: 10px 7px 23px 0px;
+}
+#h1{
+    margin-right: auto;
+    margin-left: auto;
+    text-align:center;
+    font-family: "Loud and Clear personal use";
+    letter-spacing: 5px;
+    font-size: 36px;
+
+}
+
+#top{
+    position: fixed;
+    left:0px;
+    right:0px;
+    top: 0px;
+    /*padding-left: 3px;
+    padding-right: 629px;*/
+    background-color: white;
+    /*border-bottom: solid 1px black;*/
+    height:65px;
+    padding-bottom: -15px;
+    /*background: rgba(124, 124, 124, 0.3);*/
+    background: rgba(1, 0, 0, 0.4);
+    color: white;
+    font-weight: bold;
+    border-bottom: 3px solid #f1f1f1;
+}
+#bg{
+    background-image: url(Img/contentimage.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #383838;
+    /*filter: blur(8px);*/
+}
+#essay{
+    max-width:700px;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 65px;
+    padding-top: 3px;
+    /*padding-left: 200px;
+    padding-right: 380px;*/
+    /*border-left: 3px solid #f1f1f1;*/
+    /*float:right;*/
+    z-index: -1px;
+    /*border-right: 3px solid rgba(241, 241, 241, 0.1);*/
+}
+p{
+    text-align: center;
+    color: #C9C9C9;
+    font-family: monospace,monospace;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 23px;
+    text-indent: 64px;
+}
+.betty1{
+    width: 150px;
+    float: left;
+    padding-top: 300px;
+    padding-left: 25px;
+    z-index: 10px;
+    position: absolute;
+}
+.betty2{
+    width: 200px;
+    float: left;
+    padding-top: 995px;
+    padding-left: 40px;
+    z-index: 10px;
+    position: absolute;
+}
+.betty3{
+    width: 140px;
+    float: left;
+    padding-top: 1600px;
+    padding-left: 100px;
+    z-index: 10px;
+    position: absolute;
+}

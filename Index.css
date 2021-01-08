@@ -1,0 +1,56 @@
+h3{
+    width: 80px;
+    height: 86px;
+    padding-top: 10px;
+    margin-top: 1px;
+    margin-left: 8px;
+    text-align: center;
+    border-right: 3px solid #f1f1f1;
+    padding-right: 7px;
+    border-bottom: 3px solid #f1f1f1;
+    padding-bottom: 23px;
+    font-family: Cambria;
+    margin-bottom: 0px;
+    font-size: 18.72px;
+    font-weight: bold;
+}
+
+body{
+    background-image: url("Img/Index.png");
+    background-repeat:no-repeat;
+    background-size: 70%;
+    background-color: #9dbeb5;
+    background-position: right;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 16px;
+}
+#h1{
+    color: #264B59;
+    font-family: "Loud and Clear personal use";
+    letter-spacing: 1px;
+    font-size: 32px;
+    margin: 21.44px 0px;
+    height: 64px;
+    line-height: normal;
+    padding: 0px 0px;
+}
+p{
+    color:	#696969;
+    font-size: 13px;
+    font-family: arial;
+    height: 90px;
+    margin: 13px 0px;
+    line-height: normal;
+}
+
+#intro{
+    color:	#696969;
+    font-size: 13px;
+    font-family: arial;
+    text-align:center;
+    margin-bottom: 0px;
+    margin-top: 45px;
+    margin-left: 8px;
+    height: 120px;
+}

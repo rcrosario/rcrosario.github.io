@@ -1,0 +1,143 @@
+#h3{
+    float:left;
+    max-width:133px;
+    max-height: 86px;
+    padding-top: 10px;
+    margin: 1px 0px 18.72px;
+    text-align: center;
+    border-right: 3px solid #f1f1f1;
+    padding-right: 60px;
+    border-bottom: 3px solid #f1f1f1;
+    padding-bottom: 23px;
+    font-family: Cambria;
+    font-size: 18.72px;
+    font-weight: bold;
+    position:fixed;
+}
+#h1{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    margin-bottom: 24.12px;
+    text-align:center;
+    float:right;
+    font-family: "Loud and Clear personal use";
+    max-width: 343.65px;
+    max-height 41px;
+    letter-spacing: 1px;
+    font-size: 33px;
+    line-height: normal;
+
+}
+
+#top{
+    position: fixed;
+    left:0px;
+    right:0px;
+    top: 0px;
+    padding-left: 3px;
+    padding-right: 0px;
+    background-color: white;
+    /*border-bottom: solid 1px black;*/
+    max-height:65px;
+    padding-bottom: -15px;
+    /*background: rgba(124, 124, 124, 0.3);*/
+    background: rgba(1, 0, 0, 0.4);
+    color: white;
+    font-weight: bold;
+    border-bottom: 3px solid #f1f1f1;
+  
+}
+#allDuterte{
+    padding-top: 65px;
+    font: 16px times;
+    max-height: 250px;
+}
+#Duterte{
+    height: 183.59px; /*13*/
+    width: 193.59px;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+#Dutertetxt{
+    max-width: 800px;
+    max-height: 193.59px;
+    margin: 16px 130px 16px 0px;
+    padding-bottom: 20px;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.4); 
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    text-align: center;
+    font-family: Helvetica;
+    line-height:normal;
+}
+#Tulfo{
+    max-height: 256.84px; /*42*/
+    max-width: 193.59px;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+#Tulfotxt{
+    max-width: 800px;
+    max-height: 256.84px;
+    margin: 16px 130px 16px 0px;
+    padding-bottom: 20px;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.4); 
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    text-align: center;
+    font-family: Helvetica;
+    line-height: normal;
+}
+#Pinera{
+    max-height:188.38px; /*19*/
+    max-width: 193.59px;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+#Pineratxt{
+    max-width: 800px;
+    max-height: 188.38px;
+    margin: 16px 130px 0px 0px;
+    padding-bottom: 20px;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.4); 
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    text-align: center;
+    font-family: "Helvetica";
+    line-height: normal;
+}
+#quoteR{
+    margin-right: 700px;
+    font-family: "Spirax";
+    font-size: 55px;
+    display:block;
+}
+body{
+    background-image: url("Img/Proof.JPG");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-color: #d2d4d1;
+}
+a{
+    text-decoration: none;
+    color: black;
+    /*padding-left: 500px;*/
+    position: relative;
+    white-space: nowrap;
+}
+#aimg{
+    max-width: 6%; /*9*/
+    position: bottom right;
+    float: right;
+}
+#tulfoo{
+    max-height: 239px;
+    margin-top:200px;
+}
